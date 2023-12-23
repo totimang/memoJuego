@@ -3,7 +3,7 @@ Juego de memoria
 
 ## Así se vería el juego
 <figure>
-    <img src="" alt="Juego final>
+    <img src="" alt="Juego final">
 </figure>
 
 <p>Ir a 👉<a href="https://totimang.github.io/memoJuego/" target="new">memoJuegoJs</a></p>
