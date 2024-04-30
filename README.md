@@ -10,4 +10,4 @@ Juego de memoria
 
 ## Me inspire en este proyecto
 
-<p>Ir al 👉<a href="https://www.youtube.com/watch?v=TMWkKPlUUJ4" target="new">Diseño y lógica del programa</a></p>
+<p>Ir al 👉 <a href="https://www.youtube.com/watch?v=TMWkKPlUUJ4" target="new">Diseño y lógica del programa</a></p>
